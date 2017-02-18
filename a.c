@@ -1,3 +1,5 @@
+-nose que es esto :V
+
 /* a[0] to a[n-1] is the array to sort */
 int i,j;
 int n;
